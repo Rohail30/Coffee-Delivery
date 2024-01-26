@@ -11,7 +11,7 @@ const SelectedCoffee = ({
 }) => {
   return (
     <div className=" container-coffee ">
-      <h1 className="heading mt-4  mb-4  sm:mt-0">Selected-Coffee</h1>
+      <h1 className="heading mt-4  mb-4  sm:mt-0">Selected Coffee</h1>
       <div className=" items coffee-details gap-4 flex flex-col  lg:w-[420px]  p-[2.5rem]  border-style w-full">
         <SelectedItem
           selectedProducts={selectedProducts}
