@@ -1,4 +1,4 @@
-import coffeeBanner from "../assets/CoffeeBanner.jpg";
+import { coffeeBanner } from "../assets/icons";
 import { features } from "../assets/constants";
 
 function BannerSection() {
